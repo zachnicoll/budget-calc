@@ -9,6 +9,7 @@ Requires the following libraries:
 - Pillow
 - Tkinter
 - Arrow
+
 Please ensure these are all installed before attempting to run the app.
 
 Usage:
