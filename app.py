@@ -417,7 +417,6 @@ def getAsset(assetName):
 if __name__ == "__main__":
     root = Tk()
     root.tk.call("wm", "iconphoto", root._w, PhotoImage(file=getAsset("icon.png")))
-    # root.iconbitmap(getAsset("icon.ico"))
     root.title("Budget Calc.")
     root.tk_setPalette(background="white")
     m = mainWindow(root)
